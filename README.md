@@ -1,7 +1,7 @@
 
 # 💻 Kyu Sung Cho
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kyu--sung--cho-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyu-sung-cho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kyu--Sung--Cho-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyu-sung-cho)
 [![Email](https://img.shields.io/badge/Email-kcho11289@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:kcho11289@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KyuSungCho-black?style=flat-square&logo=github&logoColor=white)](https://github.com/Kyu-Sung-Cho)
 
@@ -82,7 +82,7 @@ Developed **RadLlama-3.2**, an AI model designed to automate the annotation of r
 ## 🌐 Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kyu-sung-cho)
-[![Email](https://img.shields.io/badge/Email-kcho11289@uchicago.edu-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:kcho11289@uchicago.edu)
+[![Email](https://img.shields.io/badge/Email-kcho11289@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:kcho11289@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/YourGitHubUsername)](https://github.com/YourGitHubUsername)
 
 
