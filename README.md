@@ -85,14 +85,4 @@ Developed **RadLlama-3.2**, an AI model designed to automate the annotation of r
 [![Email](https://img.shields.io/badge/Email-kcho11289@uchicago.edu-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:kcho11289@uchicago.edu)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/YourGitHubUsername)](https://github.com/YourGitHubUsername)
 
----
 
-Feel free to connect with me!
-
----
-
-**Note:** Please replace `YourGitHubUsername` with your actual GitHub username, and update any placeholders with your actual information.
-
----
-
-You can copy and paste this content into your `README.md` file. Make sure to update the links and placeholders with your actual information. If you have any specific adjustments or additional content you'd like to include, let me know!
