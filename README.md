@@ -18,7 +18,7 @@ As a graduate of the **University of Chicago** with a **Master of Science in App
 ## 🛠 Skills
 
 ![Python](https://img.shields.io/badge/Python-Expert-informational?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-Advanced-blue?style=flat-square&logo=R&logoColor=white)
+![R](https://img.shields.io/badge/R-Advanced-orange?style=flat-square&logo=R&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Expert-informational?style=flat-square&logo=MySQL&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-yellow?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-NLTK%20%7C%20SpaCy-brightgreen?style=flat-square)
