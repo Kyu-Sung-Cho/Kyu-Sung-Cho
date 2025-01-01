@@ -30,8 +30,8 @@ As a graduate of the **University of Chicago** with a **Master of Science in App
 - **Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
 
 ### Machine Learning & Deep Learning  
-- **Techniques**: Supervised Learning, Unsupervised Learning, Time Series Analysis, Clustering, PCA  
-- **Models**: Logistic Regression, Random Forest, LightGBM, XGBoost, CatBoost, CNN, RNN, LSTM  
+- **Techniques**: Supervised Learning, Unsupervised Learning, Time Series Analysis 
+- **Models**: Logistic Regression, Random Forest, LightGBM, XGBoost, CatBoost, Clustering, PCA, CNN, RNN, LSTM, SARIMA, etc.
 
 ### MLOps & DevOps  
 - **Tools**: MLflow, Evidently AI, Docker, Airflow  
