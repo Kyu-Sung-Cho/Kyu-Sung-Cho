@@ -15,19 +15,34 @@ As a graduate of the **University of Chicago** with a **Master of Science in App
 
 ---
 
-## 🛠 Skills
+## 🛠 Skills  
 
-![Python](https://img.shields.io/badge/Python-Expert-informational?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-Advanced-orange?style=flat-square&logo=R&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Expert-informational?style=flat-square&logo=MySQL&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-yellow?style=flat-square&logo=scikit-learn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-NLTK%20%7C%20SpaCy-brightgreen?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Expert-informational?style=flat-square&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-Expert-informational?style=flat-square&logo=MySQL&logoColor=white)  
+![NLP](https://img.shields.io/badge/NLP-Llama%20%7C%20Transformers%20%7C%20SpaCy-brightgreen?style=flat-square&logo=python&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-PyTorch%20%7C%20TensorFlow-yellow?style=flat-square&logo=pytorch&logoColor=white)  
+![Cloud Platforms](https://img.shields.io/badge/Cloud%20Platforms-AWS%20%7C%20GCP%20%7C%20Azure-informational?style=flat-square&logo=google-cloud&logoColor=white)  
 
-- **Programming & Tools**: Python, R, SQL, Neo4j, MongoDB, SPSS, Excel
-- **Data Science**: Machine Learning, NLP, Statistical Modeling, Time Series Analysis, Data Visualization, MLOps
-- **Visualization**: Tableau, Power BI
-- **Cloud Platforms**: AWS, GCP, Databricks
-- **Soft Skills**: Analytical Thinking, Problem-Solving, Technical Communication, Team Collaboration
+### Programming & Tools  
+- **Languages**: Python, R, SQL  
+- **Libraries & Frameworks**: PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy  
+- **NLP**: Transformers (Hugging Face), Llama, SpaCy, Vader, LDA (Topic Modeling)  
+- **Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
+
+### Machine Learning & Deep Learning  
+- **Techniques**: Supervised Learning, Unsupervised Learning, Time Series Analysis, Clustering, PCA  
+- **Models**: Logistic Regression, Random Forest, LightGBM, XGBoost, CatBoost, CNN, RNN, LSTM  
+
+### MLOps & DevOps  
+- **Tools**: MLflow, Evidently AI, Docker, Airflow  
+- **Infrastructure**: AWS, GCP, Azure, Databricks  
+
+### Databases & Data Engineering  
+- **Databases**: SQL, MongoDB, Neo4j  
+- **ETL Pipelines**: Web Scraping (BeautifulSoup, Selenium), Data Integration  
+
+### Soft Skills  
+- Team Collaboration, Problem-Solving, Data Storytelling, Technical Communication  
 
 ---
 
