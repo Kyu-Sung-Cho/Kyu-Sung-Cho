@@ -9,9 +9,26 @@
 
 ## 👋 About Me
 
-I am **Kyu Sung Cho**, a dedicated **Data Scientist** with a strong foundation in data analysis, statistical modeling, and machine learning. Over the past several years, I have explored and contributed to various domains including healthcare analytics, marketing optimization, and environmental sustainability. My expertise lies in transforming complex datasets into actionable insights and developing AI solutions that drive efficiency and innovation. Proficient in tools such as Python, R, SQL, and experienced in machine learning and natural language processing, I excel at applying analytical and critical thinking skills to solve complex problems.
+I am **Kyu Sung Cho**, a results-driven **Data Scientist** specializing in advanced analytics, machine learning, and generative AI. With extensive experience in transforming complex datasets into actionable insights across healthcare, environmental sustainability, and business optimization, I develop innovative data-driven solutions that enhance operational efficiency and strategic decision-making.
 
-As a graduate of the **University of Chicago** with a **Master of Science in Applied Data Science**, I bring a fresh and unique perspective to the field of data science. My academic pursuits have equipped me with advanced knowledge in machine learning, NLP, data mining, MLOps, and Gen AI, enabling me to tackle complex challenges with innovative solutions. I am passionate about leveraging advanced technologies like deep learning and big data analytics to address real-world problems. I am eager to contribute my expertise in environments that value innovation, collaboration, and data-driven decision-making.
+As a Data Scientist with a Master's degree in Applied Data Science from the **University of Chicago**, my expertise includes machine learning operations (MLOps), deep learning, NLP, and statistical modeling. Notably, I developed RadLlama-3.2, an advanced large language model for healthcare applications, which significantly improved efficiency and accuracy in radiology data management. My professional experiences at Enertec and Global ESG Foundation showcase my ability to lead impactful analytics initiatives, optimize operational processes, and deliver measurable outcomes.
+
+---
+
+## 🚀 Professional Experience
+
+### **University of Chicago – Generative AI Data Scientist** *(Mar 2024 – Dec 2024)*
+- Developed RadLlama-3.2, achieving 98.8% SNOMED ID accuracy and a BLEU score of 0.92, surpassing industry standards.
+- Deployed a HIPAA-compliant pipeline to standardize unstructured radiology data, reducing annotation costs by $16.6M and increasing processing speed by 34 times.
+
+### **Global ESG Foundation – Lead Consulting Data Analyst** *(Jun 2024 – Aug 2024)*
+- Designed and implemented a comprehensive Green Index evaluating ESG performance across diverse data sources.
+- Conducted analyses linking ESG performance to customer satisfaction, providing actionable insights expected to increase customer satisfaction by 8.5%.
+
+### **Enertec – Senior Data Scientist** *(Sep 2022 – Aug 2023)*
+- Optimized ETL pipelines through web scraping and SQL for raw material price data, enhancing operational efficiency by 13%.
+- Developed advanced forecasting models (LSTM, SARIMA, Prophet), improving prediction accuracy by 8%, influencing inventory decisions worth $4M+.
+- Automated data workflows and created interactive Tableau dashboards, enabling real-time decision-making and boosting profit margins by 7%.
 
 ---
 
