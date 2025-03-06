@@ -17,7 +17,7 @@ As a Data Scientist with a Master's degree in Applied Data Science from the **Un
 
 ## 🚀 Professional Experience
 
-### **University of Chicago – Generative AI Data Scientist** *(Mar 2024 – Dec 2024)*
+### **Inference Analytics AI – Generative AI Data Scientist** *(Mar 2024 – Dec 2024)*
 - Developed RadLlama-3.2, achieving 98.8% SNOMED ID accuracy and a BLEU score of 0.92, surpassing industry standards.
 - Deployed a HIPAA-compliant pipeline to standardize unstructured radiology data, reducing annotation costs by $16.6M and increasing processing speed by 34 times.
 
